@@ -1,4 +1,4 @@
 # IoT-2021-first-project
 first repo with IoT-2021
 
-first written line
+first manually written line
